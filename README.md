@@ -41,9 +41,8 @@ The project focuses on collecting book information across multiple categories an
 ##  Project Structure
 
 ```bash
-.
-├── script.py              # main scraping script
-├── books_dataset.bin      # saved dataset (binary format)
+
+├── bookstoscape.ipynb
 └── README.md
 ```
 ## How It Works
